@@ -1,4 +1,4 @@
-![avatar](/avatar.jpg "Avatar")
+![avatar](https://raw.githubusercontent.com/Melusanda/rsschool-cv/gh-pages/avatar.jpg "Avatar")
 
 * **Full Name:** Inna Miskaryan
 * **E-mail:** innamiskar@gmail.com
