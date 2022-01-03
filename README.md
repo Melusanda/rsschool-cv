@@ -1,3 +1,3 @@
 # rsschool-cv
-[CV](https://Melusanda.github.io/rsschool-cv/cv.md) for RS school
+[CV](https://Melusanda.github.io/rsschool-cv/cv) for RS school
 
